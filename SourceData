@@ -1,0 +1,152 @@
+# CulturExp — Research Tables
+
+**CulturExp: An Interdisciplinary Strategy for Innovation in Hebei Traditional Visual Patterns**
+
+This repository presents all **8 tables** extracted from the manuscript above. Table titles, values, question wording, participant identifiers, quotations, and notes are retained from the supplied LaTeX source. LaTeX formatting has been adapted for GitHub-flavored Markdown; empty repeated theme cells are filled with an em dash (—) for readability.
+
+> **Data provenance:** These tables reproduce the supplied manuscript; they have not been independently verified. The source states that 19 people were recruited for the formative interviews but only 16 valid interviews were obtained; Table 1 reports the recruited group counts totaling 19. Missing methodological details in the manuscript should be resolved before using these tables as independently validated data.
+
+## Contents
+
+1. [Table 1 — Participant details](#table-1--participant-details)
+2. [Table 2 — Formative study questionnaire](#table-2--the-questionnaire-utilized-in-formative-study)
+3. [Table 3 — Formative study findings](#table-3--conclusion-of-the-formative-study)
+4. [Table 4 — Interview questionnaire](#table-4--the-questionnaire-utilized-in-interview)
+5. [Table 5 — Behavioral performance](#table-5--behavioral-performance-across-the-three-workshop-tasks)
+6. [Table 6 — Visual artifact evaluation](#table-6--evaluation-results-of-generated-visual-artifacts)
+7. [Table 7 — User experience](#table-7--participants-subjective-evaluation-of-culturexp)
+8. [Table 8 — Qualitative codebook](#table-8--codebook-of-qualitative-findings-from-semi-structured-interviews)
+
+---
+
+## Table 1 — Participant details
+
+*LaTeX label: `tab:participants`*
+
+| Participant Resource | Total | Male | Female | Ave age |
+|---|---:|---:|---:|---:|
+| Social Media | 11 | 8 | 3 | 41.4 |
+| Online Platform | 3 | 1 | 2 | 32.7 |
+| Questionnaire | 5 | 3 | 2 | 35.7 |
+
+## Table 2 — The questionnaire utilized in formative study
+
+*LaTeX label: `tab:formative_questions`*
+
+| Theme | Qusetion | Research Aim |
+|---|---|---|
+| Contact and cognition | Q1. Contact opportunities and experiences | Analyze the basis of public cognition and the mechanism of emotional connection |
+| — | Q2. Familiar art forms and reasons for preference | — |
+| Innovation and inheritance | Q3. Assessment of changes in form and content over 10 years | To reveal the technical bottleneck and social resistance of the survival of skills |
+| — | Q4. Innovation dilemma and breakthrough direction | — |
+| — | Q5. Inheritance problems and enrollment status | — |
+| Communication and policy | Q6. Daily life visibility attribution | Propagating policy and market incentives for failure |
+| — | Q7. Effectiveness evaluation of protection policies | — |
+| — | Q8. Core challenges of international communication | — |
+| Education and Participant | Q9. Technology integration scenario | Tap the potential of digital intervention and the momentum of public participation |
+| — | Q10. Future improvement expectation | — |
+| — | Q11. Practitioner advice | — |
+| — | Q12. Individual willingness to participate | — |
+
+## Table 3 — Conclusion of the formative study
+
+*LaTeX label: `tab:formative_findings`*
+
+| Theme | Subtheme | Content | Participant ID |
+|---|---|---|---|
+| Sources of interest | Childhood experiences | Family enlightenment (storytelling by elders, family gatherings), school activities (museum visits, artist demonstrations), and travel experiences ( markets, small towns) | 1–14,16 |
+| — | Attraction of art forms | Attracted by the exquisite craftsmanship and unique charm of art forms such as paper cutting, inside painting, shadow puppetry, ceramics, New Year paintings, stone carvings, and dough modeling | 1–4 |
+| Favored art forms | Color and design | Vibrant colors, unique shapes, lifelike designs, festive, intense, and exquisite qualities | 1–14 |
+| — | Cultural connotations | Folklore stories and cultural meanings behind the artworks | 1–14 |
+| — | Combination of innovation and tradition | A strong interest in art forms that combine tradition and modernity | 1–15 |
+| Innovation and change | Form innovation | From traditional craftsmanship to machine-assisted production, from 2D to 3D, from large scale to delicate and compact, applied in modern architectural decoration and cultural and creative products | 1–14 |
+| — | Content innovation | From traditional folk and religious themes to modern life, pop culture, and eco-friendly technology | 1–14 |
+| — | Challenges in innovation | Constraints of traditional concepts, complex craftsmanship, lack of innovative talent and funding, insufficient creativity, and difficulties in market conversion | 1–14,16 |
+| Challenges in inheritance | Difficulty in finding apprentices | Young people lack patience, have low interest, perceive limited prospects, or worry about unstable income | 1–15 |
+| — | Challenges in teaching skills | Difficulty in mastering traditional techniques, complex processes, and apprentices often giving up halfway | 1–14 |
+| Protection and promotion | Policy support | Non heritage training programs, venue support, financial subsidies, and rewards | 1–13, |
+| — | Insufficient promotion | Lack of brand impact, insufficient promotion, lack of display platforms, and inadequate commercial promotion | 1–14 |
+| Suggestions for integrated development | Application of modern technology | Technologies such as VR, AR, 3D printing, AI design, digital collection, and live streaming | 1–14 |
+| — | New media promotion | Using new media platforms (such as apps and social media) for promotion and teaching | 1–14 |
+| — | Product innovation | Developing practical products, integrating with modern home decor, reducing prices, and increasing added value | 1–14 |
+| Challenges in cross cultural communication | Cultural differences | Foreign audiences struggle to understand the artistic and cultural meanings | 1–14 |
+| — | Language barriers | Lack of professional translation, making it difficult to accurately convey cultural stories | 2,6–14,16 |
+| — | Market positioning | Foreign markets are price sensitive, making it challenging to promote high quality works | 3,6,–14 |
+| Role of school education | Enlightenment and popularization | Incorporating folk art into art curricula, developing textbooks, inviting artists to teach, and organizing practical activities | 1–14 |
+| — | Insufficient education | Arbitrary curriculum design, insufficient teaching staff, unsystematic textbooks, monotonous teaching methods, and lack of practical components | 1–14 |
+| Willing to participate personally | Promotion and dissemination | Willingness to participate in promotional activities, viewing it as an important way to preserve culture | 1–13 |
+| — | Skill inheritance | Willingness to engage in skill inheritance activities to contribute to cultural preservation | 3,6–14 |
+
+> **Source-format note:** The participant-ID strings `1–13,` and `3,6,–14` reproduce ambiguous punctuation in the LaTeX source. They should be checked against the underlying coding records rather than silently corrected.
+
+## Table 4 — The questionnaire utilized in interview
+
+*LaTeX label: `tab:interview_questions`*
+
+| Question ID | Content |
+|---|---|
+| 1 | How has the core prompt library (e.g., "Quyang Stone Carving Scroll Pattern and Auspicious Wishes") specifically impacted your creative efficiency and cultural understanding during practice sessions? |
+| 2 | When using style fusion templates like "Tangshan Shadow Puppetry and Cyberpunk," how do you balance the recognizability of traditional symbols with modern aesthetic innovation? |
+| 3 | Does the bilingual annotation feature (e.g., "Jingxing Lacquerware Pattern to Harvest Spiral") enhance your confidence in promoting Hebei culture internationally? Please provide examples. |
+| 4 | Compared to traditional tracing based teaching, how does the task chain prompt (e.g., step by step deconstruction of door god patterns) differ in terms of knowledge internalization? |
+| 5 | In which application scenarios (education, cultural creativity, cultural tourism, etc.) do you think this tool has the most breakthrough potential? Please elaborate based on your field of expertise. |
+
+## Table 5 — Behavioral performance across the three workshop tasks
+
+*LaTeX label: `tab:behavioral_performance`*
+
+| Task | Time (min) | Prompt Iterations | Completion Rate (%) |
+|---|---:|---:|---:|
+| Pattern Replication | 12.4 (3.1) | 3.2 (1.1) | 100.0 |
+| Cross-style Fusion | 19.7 (4.6) | 5.8 (1.7) | 88.2 |
+| Bilingual Annotation | 10.8 (2.9) | 2.7 (0.9) | 94.1 |
+
+*Note.* Time and prompt iterations are presented as mean (SD). Completion rates represent the percentage of participants who completed each task (N = 17).
+
+## Table 6 — Evaluation results of generated visual artifacts
+
+*LaTeX label: `tab:artifact_evaluation`*
+
+| Evaluation Dimension | Mean | SD |
+|---|---:|---:|
+| Cultural Authenticity | 4.24 | 0.56 |
+| Visual Quality | 4.38 | 0.49 |
+| Creativity | 4.47 | 0.52 |
+| Cultural Integration | 4.12 | 0.63 |
+
+*Note.* Four designers with more than five years of professional experience evaluated the generated artifacts using a five-point scale. Higher scores indicate more positive assessments.
+
+## Table 7 — Participants' subjective evaluation of CulturExp
+
+*LaTeX label: `tab:user_experience`*
+
+| Evaluation Dimension | Mean | SD |
+|---|---:|---:|
+| Perceived Ease of Use | 4.18 | 0.64 |
+| Cultural Understanding Support | 4.35 | 0.61 |
+| Creative Exploration Support | 4.53 | 0.51 |
+| Overall Satisfaction | 4.29 | 0.59 |
+
+*Note.* Participants completed the evaluation using a five-point scale (1 = strongly disagree, 5 = strongly agree). Values are reported as mean (SD).
+
+## Table 8 — Codebook of qualitative findings from semi-structured interviews
+
+*LaTeX label: `tab:qualitative_codebook`*
+
+| Theme | Subtheme | Supporting Evidence |
+|---|---|---|
+| **Technological Empowerment** | Lowering Creative Barriers | “The system allowed me to create traditional patterns without having to learn complicated production techniques.” (P03)<br>“I could explore different visual ideas even though I had little previous experience with this type of folk art.” (P09) |
+| — | Cultural Knowledge Accessibility | “The descriptions helped me understand why particular patterns and symbols were used.” (P06)<br>“I learned about the cultural meanings of some elements while preparing the prompts.” (P12) |
+| — | Supporting Cultural Expression | “The framework gave me new possibilities for combining traditional motifs with contemporary design styles.” (P04)<br>“It helped me imagine how traditional patterns could be applied to modern products.” (P15) |
+| **Challenges of AI Integration** | Cultural Homogenization | “Some generated images looked similar to designs I had seen before, even when different cultural elements were used.” (P02)<br>“The modern visual styles sometimes became more noticeable than the traditional features.” (P11) |
+| — | Loss of Cultural Context | “A pattern may look attractive, but its original meaning is not always clear in the generated design.” (P07)<br>“The generated image sometimes preserved the shape of a symbol while changing its cultural interpretation.” (P14) |
+| — | Limitations of Automated Evaluation | “The evaluation could identify visual problems, but it could not always explain whether the cultural meaning was appropriate.” (P05)<br>“A high score did not necessarily mean that the generated design represented the traditional culture accurately.” (P16) |
+| **Human–AI Collaboration** | Human Agency | “I preferred to decide which cultural elements should remain in the final design rather than accepting the generated result directly.” (P01)<br>“The system provided alternatives, but I still needed to make the final creative decisions.” (P10) |
+| — | Iterative Creative Refinement | “I adjusted the prompts several times before the result matched what I wanted to express.” (P08)<br>“The feedback helped me identify which parts of the generated image needed further improvement.” (P13) |
+| — | Cultural Expertise and Authenticity | “Someone familiar with traditional craftsmanship should still check whether the cultural details are correct.” (P17)<br>“AI can help generate ideas, but understanding the cultural background is still necessary.” (P06) |
+
+---
+
+## Source and reuse
+
+The content above is a Markdown transcription of the tables in the supplied CulturExp manuscript. This repository contains *tabular research content*, not a runnable implementation of the CulturExp framework. No license is implied; add an appropriate `LICENSE` file only when you have the rights to distribute the content under that license.
